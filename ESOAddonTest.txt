@@ -1,4 +1,6 @@
 ## Title: ESO Addon Test
 ## APIVersion: 100018
+## Version: 0.0.1
+## Author: joshfong
 
 ESOAddonTest.lua
