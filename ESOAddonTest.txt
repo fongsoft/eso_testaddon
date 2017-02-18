@@ -1,0 +1,4 @@
+## Title: ESO Addon Test
+## APIVersion: 100018
+
+ESOAddonTest.lua
